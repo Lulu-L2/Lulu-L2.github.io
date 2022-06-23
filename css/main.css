@@ -1914,6 +1914,7 @@ input::-moz-focus-inner {
 .profil {
   border-radius: 50%;
   text-align: justify;
+  border-image: 4px solid #494646;
 }
 
 .profil img {
